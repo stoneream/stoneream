@@ -9,8 +9,8 @@ computer, music, running
 ## Link
 
 - [Blog](https://stoneream.hatenablog.jp/)
-- [Bluesky](https://bsky.app/profile/stoneream.bsky.social)
 - [Twitter](https://twitter.com/stoneream)
+- [Bluesky](https://bsky.app/profile/stoneream.bsky.social)
 - [Spotify](https://open.spotify.com/user/u3c71aigkbazu2pzao5wgy25m)
 
 ## Contact

@@ -4,8 +4,6 @@
 
 Programmer
 
-computer, music, running
-
 ## Link
 
 - [Blog](https://stoneream.hatenablog.jp/)

@@ -6,7 +6,7 @@ Programmer
 
 ## Contact
 
-[contact@rishikawa.net](<mailto:contact@rishikawa.net)
+[contact@rishikawa.net](<mailto:contact@rishikawa.net>)
 
 ## Link
 

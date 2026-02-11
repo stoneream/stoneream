@@ -4,6 +4,8 @@
 
 Programmer
 
+interested in Scala, authentication/authorization...
+
 ## Contact
 
 [contact@rishikawa.net](<mailto:contact@rishikawa.net>)

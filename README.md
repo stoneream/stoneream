@@ -1,4 +1,4 @@
-# Ishikawa Ryuto (stoneream)
+# Ishikawa Ryuto (@stoneream)
 
 ## About
 

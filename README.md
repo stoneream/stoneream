@@ -1,5 +1,3 @@
-# Ishikawa Ryuto (@stoneream)
-
 ## About
 
 Programmer
